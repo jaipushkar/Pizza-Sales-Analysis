@@ -1,4 +1,4 @@
-# Pizza-Sales-Analysis-
+# Pizza-Sales-Analysis
 
 This SQL script analyzes pizza sales data to derive valuable insights for business decision-making. It covers various aspects including total revenue, average order value, total pizzas sold, total orders, trends in daily and monthly orders, percentage of sales by pizza category and size, as well as top and bottom best sellers.
 
